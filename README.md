@@ -23,3 +23,6 @@ Sprites: Graphics assets.
 Scripts: C# scripts.
 Scenes: Game scenes.
 ProjectSettings: Unity-generated settings.
+
+
+Demo Video of HW-8: https://youtu.be/hVu6OvFVfxY?si=y9-p73eZYeK4JRWQ
